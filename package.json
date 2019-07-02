@@ -1,0 +1,10 @@
+{
+  "name": "node-stream-batch",
+  "dependencies": {
+    "binary-file": "^0.2.1",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "txt": "^1.0.0"
+  }
+}
